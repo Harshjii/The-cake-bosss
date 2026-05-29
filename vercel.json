@@ -1,9 +1,6 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/assets/:path*", "destination": "/client/assets/:path*" },
-    { "source": "/favicon.ico", "destination": "/client/favicon.ico" },
-    { "source": "/robots.txt", "destination": "/client/robots.txt" },
-    { "source": "/:path*", "destination": "/client/index.html" }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }

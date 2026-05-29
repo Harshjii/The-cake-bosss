@@ -130,7 +130,7 @@ export default defineConfig(({ mode, isSsrBuild }) => ({
 				},
 			}
 		: {
-				outDir: "dist/client",
+				outDir: process.env.VERCEL ? "dist" : "dist/client",
 				emptyOutDir: true,
 				copyPublicDir: true,
 				rollupOptions: {
