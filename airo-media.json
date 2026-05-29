@@ -1,0 +1,280 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1143738706",
+    "searchQuery": "luxury chocolate cake bakery dark moody",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2261517347",
+      "https://img1.wsimg.com/isteam/getty/1386588797",
+      "https://img1.wsimg.com/isteam/getty/2266197340",
+      "https://img1.wsimg.com/isteam/getty/909188316"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:01.211Z",
+    "lastUpdated": "2026-05-29T10:30:01.211Z",
+    "gettyId": "1143738706",
+    "alternativeGettyIds": [
+      "2261517347",
+      "1386588797",
+      "2266197340",
+      "909188316"
+    ],
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "minimumSize": "x_large"
+  },
+  "pages/home/about": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2203779627",
+    "searchQuery": "artisan bakery cake decoration process editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1130917827",
+      "https://img1.wsimg.com/isteam/getty/2148856725"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:02.682Z",
+    "lastUpdated": "2026-05-29T10:30:02.682Z",
+    "gettyId": "2203779627",
+    "alternativeGettyIds": [
+      "1130917827",
+      "2148856725"
+    ],
+    "orientations": "vertical"
+  },
+  "menu/chocolate-truffle-dream": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1398976985",
+    "searchQuery": "chocolate truffle cake dark rich luxury",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1214949516",
+      "https://img1.wsimg.com/isteam/getty/2263072077"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:08.751Z",
+    "lastUpdated": "2026-05-29T10:30:08.751Z",
+    "gettyId": "1398976985",
+    "alternativeGettyIds": [
+      "1214949516",
+      "2263072077"
+    ],
+    "orientations": "square"
+  },
+  "menu/strawberry-bliss": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2238458204",
+    "searchQuery": "strawberry cream cake fresh elegant",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1338799140",
+      "https://img1.wsimg.com/isteam/getty/1136602528"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:09.382Z",
+    "lastUpdated": "2026-05-29T10:30:09.382Z",
+    "gettyId": "2238458204",
+    "alternativeGettyIds": [
+      "1338799140",
+      "1136602528"
+    ],
+    "orientations": "square"
+  },
+  "menu/red-velvet-royale": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2256694288",
+    "searchQuery": "red velvet cake slice layered",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2220577146",
+      "https://img1.wsimg.com/isteam/getty/1386274966"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:09.900Z",
+    "lastUpdated": "2026-05-29T10:30:09.900Z",
+    "gettyId": "2256694288",
+    "alternativeGettyIds": [
+      "2220577146",
+      "1386274966"
+    ],
+    "orientations": "square"
+  },
+  "menu/mango-delight": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/471591498",
+    "searchQuery": "mango cake tropical yellow dessert",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1177031878",
+      "https://img1.wsimg.com/isteam/getty/949831008"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:10.655Z",
+    "lastUpdated": "2026-05-29T10:30:10.655Z",
+    "gettyId": "471591498",
+    "alternativeGettyIds": [
+      "1177031878",
+      "949831008"
+    ],
+    "orientations": "square"
+  },
+  "menu/black-forest-classic": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2240918896",
+    "searchQuery": "black forest cake cherries cream chocolate",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/155135162",
+      "https://img1.wsimg.com/isteam/getty/2227259883"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:12.062Z",
+    "lastUpdated": "2026-05-29T10:30:12.062Z",
+    "gettyId": "2240918896",
+    "alternativeGettyIds": [
+      "155135162",
+      "2227259883"
+    ],
+    "orientations": "square"
+  },
+  "menu/custom-wedding-cake": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2258024816",
+    "searchQuery": "elegant white wedding cake tiered luxury",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2268808363",
+      "https://img1.wsimg.com/isteam/getty/2271742748"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:12.783Z",
+    "lastUpdated": "2026-05-29T10:30:12.783Z",
+    "gettyId": "2258024816",
+    "alternativeGettyIds": [
+      "2268808363",
+      "2271742748"
+    ],
+    "orientations": "vertical"
+  },
+  "gallery/slide-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1338691348",
+    "searchQuery": "luxury cake close up decoration flowers",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2166691817"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:17.777Z",
+    "lastUpdated": "2026-05-29T10:30:17.777Z",
+    "gettyId": "1338691348",
+    "alternativeGettyIds": [
+      "2166691817"
+    ],
+    "orientations": "square"
+  },
+  "gallery/slide-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1412162456",
+    "searchQuery": "bakery interior warm cozy pastry display",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1311800432"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:18.690Z",
+    "lastUpdated": "2026-05-29T10:30:18.690Z",
+    "gettyId": "1412162456",
+    "alternativeGettyIds": [
+      "1311800432"
+    ],
+    "orientations": "horizontal"
+  },
+  "gallery/slide-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/927427216",
+    "searchQuery": "cake decorating piping frosting professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1446912694"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:19.404Z",
+    "lastUpdated": "2026-05-29T10:30:19.404Z",
+    "gettyId": "927427216",
+    "alternativeGettyIds": [
+      "1446912694"
+    ],
+    "orientations": "square"
+  },
+  "gallery/slide-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2151814064",
+    "searchQuery": "birthday cake candles celebration colorful",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2237014008"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:20.476Z",
+    "lastUpdated": "2026-05-29T10:30:20.476Z",
+    "gettyId": "2151814064",
+    "alternativeGettyIds": [
+      "2237014008"
+    ],
+    "orientations": "square"
+  },
+  "gallery/slide-5": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/615269956",
+    "searchQuery": "chocolate ganache drip cake elegant",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1154803171"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:21.159Z",
+    "lastUpdated": "2026-05-29T10:30:21.159Z",
+    "gettyId": "615269956",
+    "alternativeGettyIds": [
+      "1154803171"
+    ],
+    "orientations": "vertical"
+  },
+  "gallery/slide-6": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/602328694",
+    "searchQuery": "macaron tower dessert table luxury",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/535939413"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:22.449Z",
+    "lastUpdated": "2026-05-29T10:30:22.449Z",
+    "gettyId": "602328694",
+    "alternativeGettyIds": [
+      "535939413"
+    ],
+    "orientations": "square"
+  },
+  "gallery/slide-7": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2241586345",
+    "searchQuery": "wedding cake cutting ceremony elegant",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/504286433"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:22.853Z",
+    "lastUpdated": "2026-05-29T10:30:22.853Z",
+    "gettyId": "2241586345",
+    "alternativeGettyIds": [
+      "504286433"
+    ],
+    "orientations": "square"
+  },
+  "gallery/slide-8": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2262037350",
+    "searchQuery": "fondant cake artistic sculpted design",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1224961137"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-29T10:30:23.765Z",
+    "lastUpdated": "2026-05-29T10:30:23.765Z",
+    "gettyId": "2262037350",
+    "alternativeGettyIds": [
+      "1224961137"
+    ],
+    "orientations": "square"
+  }
+}
